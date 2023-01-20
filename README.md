@@ -36,12 +36,12 @@ To allow a client to connect to the server, select option 13, enter the IP addre
 14)Block the trafic from an ip adress
 To block a client to connect to the server, select option 13, enter the IP address of the client, then click on continue to execute then on OK to return to the main menu .
 
-#Requirements ☝️
+# Requirements ☝️
 *Ubuntu or any other Linux distribution
 *Whiptail 0.4.0
 *Iptables
 
-#How-to guide
+# How-to guide
 1)First, install the file and give it execution rights.
 ![image](https://user-images.githubusercontent.com/33804236/213731156-a10447e3-5689-4342-a40b-cc7e69c8f998.png)
 
