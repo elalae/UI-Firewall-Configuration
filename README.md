@@ -47,3 +47,5 @@ To block a client to connect to the server, select option 13, enter the IP addre
 
 Step 2
 Make sure you have the machine up to date and also whiptail and iptable installed.
+
+//TODO : FINISH DOCUMENTATION
